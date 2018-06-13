@@ -2,11 +2,15 @@
 # Chickens are delicious
 # White & red chickens.
 # import pudb; pu.db
-# pudb3 chickens.py
+# pudb Chickens.py
 x = 14
 y = 12
 z = 100*7
-prod = x*y
-prod2 = x+y+z+f
-print(prod2)
-print(prod)
+g = x*y
+prod = g
+prod2 = x + y
+j = x+y+z
+u = z-x-y
+print(g)
+print(j)
+print(u)
